@@ -1,6 +1,6 @@
 // images array, it can hold as many as you want
-let images = ["url(../img/1-min.jpg)", "url(../img/2-min.jpg)",
-    "url(../img/3-min.jpg)", "url(../img/4-min.jpg)", "url(../img/5-min.jpg)", "url(../img/6-min.jpg)", "url(../img/7-min.jpg)", "url(../img/8-min.jpg)", "url(../img/9-min.jpg)", "url(../img/10-min.jpg)",]
+let images = ["url('../img/1-min.jpg')", "url('../img/2-min.jpg')",
+    "url('../img/3-min.jpg')", "url('../img/4-min.jpg')", "url('../img/5-min.jpg')", "url('../img/6-min.jpg')", "url('../img/7-min.jpg')", "url('../img/8-min.jpg')", "url('../img/9-min.jpg')", "url('../img/10-min.jpg')",]
 
 const sliderContentBox = document.querySelector('.slider__content');
 
